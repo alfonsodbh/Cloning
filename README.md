@@ -23,6 +23,6 @@ $ pkg install python
 $ pkg install git
 $ pip install requests  
 $ git clone https://github.com/Dunia-Kode/Cloning
-$ cd Spammer
+$ cd Cloning
 $ python clone.py
 ```
